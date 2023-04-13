@@ -1,4 +1,4 @@
-# Assignment 5: JSON &amp; API Request
+# Assignment 5: JSON, APIs & SQL Indexing
 
 This assignment was locked Feb 19 at 11:59pm.
 
